@@ -2,8 +2,9 @@
 
 This is a simple script in Java that converts the naming format of Gaea tiles into Blender UDIM tile names.
 
+Examples:
 *_y000_x001 converts to *_1002
-Color_y000_x001.png Cconverts to Color_1002.png
+"Color_y000_x001.png" converts to "Color_1002.png"
 
 This program runs through the CLI or Terminal using the following commands:
 
